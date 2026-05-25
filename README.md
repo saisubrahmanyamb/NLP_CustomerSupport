@@ -138,7 +138,7 @@ NLP-CUSTOMER-SUPPORT/
 ## Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/saisubrahmanyamb/NLP_CustomerSupport.git>
 cd NLP-Customer-Support
 ```
 
